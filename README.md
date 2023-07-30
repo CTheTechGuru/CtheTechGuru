@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Python, Linux, Terraform, Ansible, & DevOps Tools.**
 
-- 👯 I’m looking to collaborate on **Cybersecurity and Devops Projects**
-
-- 🤝 I’m looking for help with **Event driven serverless architecture**
-
 - 👨‍💻 All of my projects are available at [My Cloud Resume](https://www.clowman.cloud)
 
 - 📝 I regularly write articles on [My Blog](https://www.clowman.cloud)
@@ -18,8 +14,6 @@
 - 📫 How to reach me [Contact Me](cordelra_lowman@yahoo.com)
 
 - 📄 Know about my experiences [Here](https://www.clowman.cloud)
-
-- ⚡ Fun fact **You merely adopted the dark; I was born in it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
