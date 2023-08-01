@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cthetechguru&label=Profile%20views&color=0e75b6&style=flat" alt="cthetechguru" /> </p>
 
+<h3 align="left">Current Projects:</h3>
 - 🔭 I’m currently working on **Building a highly avaliable 3 tier web application on AWS.**
 
 - 🌱 I’m currently learning **Python, Linux, Terraform, Ansible, & DevOps Tools.**
