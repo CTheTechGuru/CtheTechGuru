@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cordelra Lowman</h1>
-<h3 align="center">IT Professional | AWS Cloud Computing | Cybersecurity </h3>
+![](https://github.com/CTheTechGuru/images-/blob/main/Cordelra%20Lowman.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cthetechguru&label=Profile%20views&color=0e75b6&style=flat" alt="cthetechguru" /> </p>
 
